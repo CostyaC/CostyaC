@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CostyaC
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Java and Patterns
-- 💞️ I’m looking to collaborate in a team where I can improve my Skills and Earn New Expwerience
+- 🌱 I’m currently learning Tech Courses Which are improving my Knowledge Area
+- 💞️ I’m looking to collaborate in a team where I can improve my Skills and Earn New Experience
 - 📫 How to reach me : kosteadk@outlook.com
 
 <!---
