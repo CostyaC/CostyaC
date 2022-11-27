@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CostyaC
+- 👋 Hello !, MU Nickname here is @CostyaC, but Officialy My Name is Constantin Cornea
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Tech Courses Which are improving my Knowledge Area
 - 💞️ I’m looking to collaborate in a team where I can improve my Skills and Earn New Experience
